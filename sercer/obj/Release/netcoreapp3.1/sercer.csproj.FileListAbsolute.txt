@@ -1,0 +1,14 @@
+C:\Users\Mason\source\repos\sercer\sercer\bin\Release\netcoreapp3.1\sercer.exe
+C:\Users\Mason\source\repos\sercer\sercer\bin\Release\netcoreapp3.1\sercer.deps.json
+C:\Users\Mason\source\repos\sercer\sercer\bin\Release\netcoreapp3.1\sercer.runtimeconfig.json
+C:\Users\Mason\source\repos\sercer\sercer\bin\Release\netcoreapp3.1\sercer.runtimeconfig.dev.json
+C:\Users\Mason\source\repos\sercer\sercer\bin\Release\netcoreapp3.1\sercer.dll
+C:\Users\Mason\source\repos\sercer\sercer\bin\Release\netcoreapp3.1\sercer.pdb
+C:\Users\Mason\source\repos\sercer\sercer\bin\Release\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Mason\source\repos\sercer\sercer\obj\Release\netcoreapp3.1\sercer.AssemblyInfoInputs.cache
+C:\Users\Mason\source\repos\sercer\sercer\obj\Release\netcoreapp3.1\sercer.AssemblyInfo.cs
+C:\Users\Mason\source\repos\sercer\sercer\obj\Release\netcoreapp3.1\sercer.csproj.CoreCompileInputs.cache
+C:\Users\Mason\source\repos\sercer\sercer\obj\Release\netcoreapp3.1\sercer.csproj.CopyComplete
+C:\Users\Mason\source\repos\sercer\sercer\obj\Release\netcoreapp3.1\sercer.dll
+C:\Users\Mason\source\repos\sercer\sercer\obj\Release\netcoreapp3.1\sercer.pdb
+C:\Users\Mason\source\repos\sercer\sercer\obj\Release\netcoreapp3.1\sercer.genruntimeconfig.cache

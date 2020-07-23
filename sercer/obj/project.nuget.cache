@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hQy81f7Y4TNzgtYJAdQa/5+mGKvke8H0C9ctkaPftoGhiWRZwdB4ACOWX/eBv92GaxjJSODbGd5Pb58OmvL0uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mason\\source\\repos\\sercer\\sercer\\sercer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mason\\.nuget\\packages\\yamldotnet\\8.1.2\\yamldotnet.8.1.2.nupkg.sha512",
+    "C:\\Users\\Mason\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
